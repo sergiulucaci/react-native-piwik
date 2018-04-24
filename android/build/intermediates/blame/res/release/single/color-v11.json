@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

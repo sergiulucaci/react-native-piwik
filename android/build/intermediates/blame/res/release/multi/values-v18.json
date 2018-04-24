@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 48,
+                        "endOffset": 324
+                    }
+                }
+            }
+        ]
+    }
+]

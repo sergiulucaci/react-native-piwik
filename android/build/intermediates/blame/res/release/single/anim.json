@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/macbookpro/.android/build-cache/d356240d54f73134a35b3d07529e56df54145f3a/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/macbookpro/.android/build-cache/d356240d54f73134a35b3d07529e56df54145f3a/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/macbookpro/.android/build-cache/d356240d54f73134a35b3d07529e56df54145f3a/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/macbookpro/.android/build-cache/d356240d54f73134a35b3d07529e56df54145f3a/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/macbookpro/.android/build-cache/d356240d54f73134a35b3d07529e56df54145f3a/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/macbookpro/.android/build-cache/d356240d54f73134a35b3d07529e56df54145f3a/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/macbookpro/Documents/Development/demco/mobileapp/node_modules/react-native-piwik/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/macbookpro/.android/build-cache/a4e7d0e0097f2b3bb800f9ccf94b38a71b2e58c6/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

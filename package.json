@@ -1,0 +1,55 @@
+{
+  "_args": [
+    [
+      "react-native-piwik@0.0.8",
+      "/Users/macbookpro/Documents/Development/demco/mobileapp"
+    ]
+  ],
+  "_from": "react-native-piwik@0.0.8",
+  "_id": "react-native-piwik@0.0.8",
+  "_inBundle": false,
+  "_integrity": "sha512-+tKufoHK1jtnlNBSXi0+7kqSgquhywBUdwtP3fPDzJRIOReIuvBr0QkaBmQE3tZvYQODjRghKjpHTAg0gAZh2w==",
+  "_location": "/react-native-piwik",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-piwik@0.0.8",
+    "name": "react-native-piwik",
+    "escapedName": "react-native-piwik",
+    "rawSpec": "0.0.8",
+    "saveSpec": null,
+    "fetchSpec": "0.0.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-piwik/-/react-native-piwik-0.0.8.tgz",
+  "_spec": "0.0.8",
+  "_where": "/Users/macbookpro/Documents/Development/demco/mobileapp",
+  "author": {
+    "name": "Rui Araujo"
+  },
+  "bugs": {
+    "url": "https://github.com/BonifyByForteil/react-native-piwik/issues"
+  },
+  "description": "React Native adapter for Piwik native SDKs",
+  "homepage": "https://github.com/BonifyByForteil/react-native-piwik#readme",
+  "keywords": [
+    "react-native",
+    "piwik",
+    "android",
+    "ios"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-piwik",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BonifyByForteil/react-native-piwik.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.8"
+}
